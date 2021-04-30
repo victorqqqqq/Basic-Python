@@ -1,2 +1,2 @@
 # Basic-Python
-In this project, we review basic Python programming like loops.
+In this project, we reviewed basic Python programming like loops.
